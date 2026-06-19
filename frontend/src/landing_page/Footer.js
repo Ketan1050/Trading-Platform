@@ -6,7 +6,7 @@ function Footer() {
         <div className='container border-top mt-5 pt-3' style={{ backgroundColor: '#f8f9fa' }}> 
             <div className='row'>
                 <div className='col-3'>
-                    <img src="media\images\logo.svg" style={{ width: '50%' }} /> 
+                    <img src="media\images\logo.png" style={{ width: '70%' }} /> 
                         <p> &copy; 2023 Your Company Name. All rights reserved.</p> 
                         {/* <p> Making the world a better place through constructing elegant hierarchies.</p>  */} 
 
@@ -38,7 +38,7 @@ function Footer() {
 
             <div className='row mt-4 '> 
                 <p> 
-                    Company Info </p> </div> 
+                    Company Info :- TradeHub is a modern trading and investment platform dedicated to empowering individuals and businesses with seamless access to financial markets. We provide innovative trading solutions, real-time market insights, and advanced analytical tools that help investors make informed decisions. Our mission is to simplify trading, enhance financial growth, and create opportunities for everyone to participate confidently in global markets. At TradeHub, we combine technology, security, and expertise to deliver a reliable platform where users can trade, invest, and grow their wealth efficiently.  </p> </div> 
 
         </div> 
     </footer> 
