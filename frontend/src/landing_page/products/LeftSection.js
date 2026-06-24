@@ -20,7 +20,7 @@ function LeftSection({ imageURL, productName, productDescription, tryDemo, learn
                     <a href={appStore} > <img src="./media/images/appStoreBadge.svg" alt="Apple App Store" /> </a>
                 </div>
             </div>
-        </div>
+        </div> 
     );
 
 }
